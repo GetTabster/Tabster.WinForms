@@ -53,13 +53,13 @@
     <Reference Include="System.Drawing" />
     <Reference Include="System.Windows.Forms" />
     <Reference Include="Tabster.Core">
-      <HintPath>..\packages\Tabster.Core.1.0\lib\net35\Tabster.Core.dll</HintPath>
+      <HintPath>packages\Tabster.Core.1.0\lib\net35\Tabster.Core.dll</HintPath>
     </Reference>
     <Reference Include="Tabster.Data">
-      <HintPath>..\packages\Tabster.Data.1.0\lib\net35\Tabster.Data.dll</HintPath>
+      <HintPath>packages\Tabster.Data.1.0\lib\net35\Tabster.Data.dll</HintPath>
     </Reference>
     <Reference Include="Tabster.Printing">
-      <HintPath>..\packages\Tabster.Printing.1.0\lib\net35\Tabster.Printing.dll</HintPath>
+      <HintPath>packages\Tabster.Printing.1.0\lib\net35\Tabster.Printing.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>

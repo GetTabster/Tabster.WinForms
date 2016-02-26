@@ -29,6 +29,9 @@ namespace Tabster.WinForms.Extensions
                 }
             }
 
+            if (fileTypes.Count == 0)
+                return;
+
             if (alphabeticalOrder)
                 fileTypes.Sort((f1, f2) => f1.Name.CompareTo(f2.Name));
 

@@ -9,7 +9,7 @@
     <licenseUrl>https://github.com/GetTabster/Tabster.WinForms/blob/master/LICENSE</licenseUrl>
     <projectUrl>https://github.com/GetTabster/Tabster.WinForms</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description> Tabster WinForm controls and utilities. .  </description>
+    <description> Tabster WinForm controls and utilities. </description>
     <releaseNotes>* Initial deployment.</releaseNotes>
     <copyright>Copyright Nate Shoffner 2016</copyright>
     <tags>tabster</tags>

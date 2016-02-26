@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>Tabster.WinForms</id>
-    <version>1.0</version>
+    <version>$version$</version>
     <title>Tabster.WinForms</title>
     <authors>Nate Shoffner</authors>
     <owners>Nate Shoffner</owners>
